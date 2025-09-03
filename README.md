@@ -12,7 +12,7 @@ Projeto simples e funcional de busca de endereço a partir do CEP, utilizando a 
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (pode ser adicionado para estilização)
+- CSS3
 - JavaScript (ES6+)
 - API ViaCEP
 
