@@ -22,4 +22,3 @@ Projeto simples e funcional de busca de endereço a partir do CEP, utilizando a 
 2. Clique no botão **Buscar**.
 3. Os dados do endereço aparecerão logo abaixo.
 
-## 📁 Estrutura do Projeto
